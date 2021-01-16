@@ -6,7 +6,7 @@ Integrantes del grupo:
 
 * Pablo Gianni
 * Emanuel Gianuzzi
-* Agustin Ramanello de la Vega
-* Karen Palacios
+* Agustin Ramello de la Vega
+* Karen Palacio
 * Ana Rusconi
-* Maria
+* Maria de los Ángeles Martínez
