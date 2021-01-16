@@ -1,6 +1,6 @@
 # Codigos
 
-Prácitcos de la materia de "Introduccion al aprendizaje automático"
+Prácitcos de la materia de "Introduccion al aprendizaje automático" de la diplo datos 2020
 
 Integrantes del grupo:
 
